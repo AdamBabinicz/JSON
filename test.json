@@ -1,0 +1,12 @@
+{
+  "name": "Adam",
+  "surname": "",
+  "age": 63,
+  "isProgrammer": true,
+  "address": {
+    "street": "Ulica",
+    "city": "miasto"
+  },
+  "hobbies": ["snowboard", "muay thai"],
+  "animals": null
+}
