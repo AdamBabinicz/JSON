@@ -11,7 +11,7 @@
   --clr-dark: #00332a;
   --clr-primary: #dbffa2;
   --clr-secondary: #c3fcf2;
-  --clr-accent: #ff7750;
+  --clr-accent: #ff7650ce;
 
   --foreground: var(--clr-dark);
   --background: var(--clr-light);
