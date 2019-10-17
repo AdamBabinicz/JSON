@@ -10,7 +10,7 @@
   --clr-light: #fdffc4;
   --clr-dark: #00332a;
   --clr-primary: #a2ffa2;
-  --clr-secondary: #c3fcf2;
+  --clr-secondary: #c3d9fc;
   --clr-accent: #ff7650ce;
 
   --foreground: var(--clr-dark);
@@ -23,7 +23,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --clr-primary: #202302;
-    --clr-secondary: #00100d;
+    --clr-secondary: #030010;
     --clr-accent: #ff7750;
 
     --background: var(--clr-dark);
